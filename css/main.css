@@ -47,6 +47,7 @@ ul.posts li {
 }
 
 .bit {
+    margin: 20px 0 10px;
     min-width: 250px;
     max-width: 900px;
     width: 100%;
@@ -56,7 +57,7 @@ ul {
     font-size: 1.5em;
 }
 
-ul li:hover {
+ul li a:hover {
     color: #0055d4;
     text-decoration: underline;
 }
