@@ -52,6 +52,19 @@ ul.posts li {
     width: 100%;
 }
 
+ul {
+    font-size: 1.5em;
+}
+
+ul li:hover {
+    color: #0055d4;
+    text-decoration: underline;
+}
+
 footer {
     margin-top: 50px;
+}
+
+footer ul {
+    text-align: right;
 }
